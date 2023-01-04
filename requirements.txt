@@ -1,0 +1,7 @@
+opecv-python
+numpy
+tensorflow
+flask
+matplotlib
+pillow
+cython
