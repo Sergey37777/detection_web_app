@@ -1,7 +1,7 @@
-opecv-python
+opencv-python==4.7.0.72
 numpy
-tensorflow
-flask
+tensorflow==2.11.0
+flask==2.2.3
 matplotlib
 pillow
-cython
+cython==0.29.33
