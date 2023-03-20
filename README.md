@@ -14,3 +14,4 @@
 11. cp object_detection/packages/tf2/setup.py .
 12. python -m pip install .
 13. python object_detection/builders/model_builder_tf2_test.py
+14. Create images folder
